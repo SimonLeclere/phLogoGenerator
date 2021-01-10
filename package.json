@@ -1,0 +1,14 @@
+{
+  "name": "phlogogenerator",
+  "version": "1.0.0",
+  "description": "Simple module to generate a Pornhub-like logo with custom text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Leclère",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-to-image": "^3.1.0"
+  }
+}
